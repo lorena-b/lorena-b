@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning abstract data types and object oriented programming in Python. 
+
 <!--
 **lorena-b/lorena-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
