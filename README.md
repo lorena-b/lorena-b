@@ -2,6 +2,8 @@
 
 ✨ I’m currently learning about data structures and object oriented programming in Python. 
 
+![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-b&show_icons=true&theme=omni)
+
 <!--
 **lorena-b/lorena-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
