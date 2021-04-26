@@ -1,7 +1,4 @@
 ### Hi there! 👋
-
-✨ I’m currently learning about data structures and object oriented programming in Python. 
-
 ![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-b&show_icons=true&theme=omni)
 
 <!--
