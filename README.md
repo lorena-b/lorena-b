@@ -1,4 +1,5 @@
 ### Hi there! 👋
+- 🔭 I’m currently working on PyTA
 ![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-b&show_icons=true&theme=omni)
 
 <!--
