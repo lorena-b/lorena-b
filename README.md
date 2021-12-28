@@ -1,6 +1,6 @@
 ### Hi, I'm Lorena! 👋
 ---------------------
-I am a second-year computer science student at UofT interested in developing software systems. 
+I am a second-year computer science student at UofT interested in developing software systems. <br />
 In the past I worked on the development of PythonTA. 
 
 - 🔭 I’m currently working on my personal website 
