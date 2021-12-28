@@ -1,6 +1,7 @@
 ### Hi, I'm Lorena! 👋
 ---------------------
-I am a second-year computer science student at UofT interested in developing software systems. In the past I worked on the development of PythonTA. 
+I am a second-year computer science student at UofT interested in developing software systems. 
+In the past I worked on the development of PythonTA. 
 
 - 🔭 I’m currently working on my personal website 
 - 🌱 I’m currently learning about computer organization, systems programming, and DS + algos 
