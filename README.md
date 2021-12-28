@@ -1,4 +1,4 @@
-### Hi! I'm Lorena 👋
+### Hi, I'm Lorena! 👋
 
 ![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-b&show_icons=true&theme=omni)
 
