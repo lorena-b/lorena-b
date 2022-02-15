@@ -5,7 +5,7 @@ In the past I worked on the development of PythonTA.
 
 - 👩‍💻 I’m currently working on my personal website 
 - 📚 I’m currently learning about computer organization, systems programming, and DS + algos 
-- 🔭 I’m looking for Summer 2022 SWE internship oppourtunities 
+- 🔭 Incoming development intern at Dash Hudson
 - 📫 How to reach me: lorena.buciu@mail.utoronto.ca
 - - -
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
