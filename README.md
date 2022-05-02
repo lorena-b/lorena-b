@@ -2,9 +2,8 @@
 - - -
 I am a second-year computer science student at UofT interested in developing software systems. <br />
 In the past I worked on the development of PythonTA. 
-
-- 👩‍💻 I’m currently working on my personal website 
 <!-- - 📚 I’m currently learning about computer organization, systems programming, and DS + algos -->
+- 👩‍💻 I’m currently working on my personal website 
 - 🔭 Full-Stack Developer Intern at Dash Hudson
 - 📫 How to reach me: lorena.buciu@mail.utoronto.ca
 - - -
