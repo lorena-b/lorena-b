@@ -1,6 +1,6 @@
 ### Hi, I'm Lorena! 👋
 - - -
-I am a third-year computer science student at UofT interested in developing software systems. <br />
+I am a third-year computer science student at UofT interested in full stack development. <br />
 In the past I worked on the development of PythonTA. 
 <!-- - 📚 I’m currently learning about computer organization, systems programming, and DS + algos -->
 - 👩‍💻 I’m currently working on my personal website 
