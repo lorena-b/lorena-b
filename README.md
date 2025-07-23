@@ -1,6 +1,8 @@
 ### Hi, I'm Lorena! 👋
 - - -
-I am a fourth-year computer science student at UofT interested in full stack development 📚👩‍💻 <br />
+
+- 🔭 Currently a software developer at HelloFresh 🍋
+
 <!-- In the past I worked on the development of PythonTA. I previously interned at Dash Hudson as a full stack developer.          -->
 <!-- - 📚 I’m currently learning about computer organization, systems programming, and DS + algos -->
 <!-- - 👩‍💻 I’m currently working on my personal website -->
